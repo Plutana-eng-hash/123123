@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://example.com/files/game-one.pkg": {
+      "title_id": "XXXX00000",
+      "region": "REGION",
+      "name": "Placeholder Title One",
+      "version": "00.00",
+      "release": "MM-DD-YYYY",
+      "size": 0,
+      "min_fw": "0.00",
+      "cover_url": "https://example.com/icons/XXXX00000.png"
+    },
+    "https://example.com/files/game-two.pkg": {
+      "title_id": "XXXX00001",
+      "region": "REGION",
+      "name": "Placeholder Title Two",
+      "version": "00.00",
+      "release": "MM-DD-YYYY",
+      "size": 0,
+      "min_fw": "0.00",
+      "cover_url": "https://example.com/icons/XXXX00001.png"
+    }
+  }
+}
